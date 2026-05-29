@@ -1,4 +1,4 @@
-package conditional_structure;
+package conditional_structures;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -21,8 +21,6 @@ public class Exercise00 {
         } else {
             System.out.println("Good Night");
         }
-
         sc.close();
-
     }
 }
