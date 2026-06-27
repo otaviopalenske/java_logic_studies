@@ -1,0 +1,8 @@
+package oop_lab.exercise1.entities;
+
+public class Triangle {
+
+    public double a;
+    public double b;
+    public double c;
+}
